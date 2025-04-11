@@ -25,19 +25,19 @@ author:
   avatar           : "profile.png"
   name             : "Yee Man Ng"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "the Netherlands"
-  employer         : "Red Brick University"
+  bio              : "Researcher at Leiden University"
+  location         : "Leiden, The Netherlands"
+  employer         : "LIACS, Leiden University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "y.m.ng@liacs.leidenuniv.nl" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
