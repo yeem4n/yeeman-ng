@@ -6,11 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am Yee Man, a researcher at Leiden University, within the Leiden Institute of Advanced Computer Science (LIACS). In 2024, I received my Research Masters in Human Language Technology from the [Computational Linguistics and Text Mining Lab (CLTL)](http://www.cltl.nl) at the Vrije Universiteit Amsterdam. I currently work together with Bram van Dijk, Marco Spruit, and Max van Duijn, and the team of Healthy Chronos, on the Healthy Chronos app. This app supports cancer patients in recovery by providing insights into how daily activities can influence their mood and symptoms. My main focus is on leveraging large language models in combination with RAG (Retrieval-Augmented Generation) to generate personalized summaries and relevant health advice. 
+Welcome! I am Yee Man, a researcher at Leiden University, within [the Leiden Institute of Advanced Computer Science (LIACS)](https://liacs.leidenuniv.nl). In 2024, I received my Research Masters in Human Language Technology from the [Computational Linguistics and Text Mining Lab (CLTL)](http://www.cltl.nl) at the Vrije Universiteit Amsterdam. 
+
+I currently work together with Bram van Dijk, Marco Spruit, and Max van Duijn, and the team of Healthy Chronos, on the Healthy Chronos app. This app supports cancer patients in recovery by providing insights into how daily activities can influence their mood and symptoms. My main focus is on leveraging large language models in combination with RAG (Retrieval-Augmented Generation) to generate personalized summaries and relevant health advice. 
 
 My research interests lie in the fields of Natural Language Processing,  Computational Linguistics, and Digital Humanities. 
 
-This personal website is still under construction!
+In my spare time, I enjoy crocheting, gaming, taking long walks, singing, and hanging out with friends. 
+
+This personal website is still under construction! 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
