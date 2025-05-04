@@ -11,14 +11,14 @@
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "Yee Man Ng",
-        "url": "https://scholar.google.nl/citations?user=x7Cmb4EAAAAJ&hl=nl"
-      },
-      {
         "network": "LinkedIn",
         "username": "Yee Man Ng",
         "url": "https://www.linkedin.com/in/yee-man-ng/"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "Yee Man Ng",
+        "url": "https://scholar.google.nl/citations?user=x7Cmb4EAAAAJ&hl=nl"
       },
       {
         "network": "GitHub",
