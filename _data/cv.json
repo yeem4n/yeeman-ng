@@ -2,16 +2,16 @@
   "basics": {
     "name": "Yee Man Ng",
     "email": "y.m.ng@liacs.leidenuniv.nl",
-    "phone": "",
+    // "phone": "",
     "website": "https://yeem4n.github.io/yeeman-ng/",
     "summary": "A highly driven and proactive NLP researcher at Leiden University (LIACS), with a Research Master in Human Language Technology (Vrije Universiteit Amsterdam). Conducted research at the intersection of AI and language in an interdisciplinary setting. 
     Passionate about exploring the use of NLP to deal with complex societal issues.",
     "location": {
-      "address": "",
-      "postalCode": "",
+      // "address": "",
+      // "postalCode": "",
       "city": "Leiden",
       "countryCode": "NL",
-      "region": ""
+      // "region": ""
     },
     "profiles": [
       {
@@ -19,11 +19,11 @@
         "username": "Yee Man Ng",
         "url": "https://scholar.google.nl/citations?user=x7Cmb4EAAAAJ&hl=nl"
       },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": ""
-      },
+      // {
+      //   "network": "ORCID",
+      //   "username": "",
+      //   "url": ""
+      // },
       {
         "network": "GitHub",
         "username": "yeem4n",
@@ -59,7 +59,7 @@
       "endDate": "Mar 2022 (unfinished)",
       "gpa": null,
       "courses": ["L2 in the Classroom", "Literature in the Classroom", "Variation and Change in English"],
-      "highlights": ["Trained to become an English teacher, following courses on education, pedagogy, and English second language acquisition"],
+      "summary": "Trained to become an English teacher, following courses on education, pedagogy, and English second language acquisition",
     },
     {
       "institution": "Universiteit van Amsterdam",

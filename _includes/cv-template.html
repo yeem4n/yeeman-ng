@@ -100,12 +100,8 @@
           {% if education.gpa %}
           <div class="cv-item-detail">GPA: {{ education.gpa }}</div>
           {% endif %}
-          {% if education.highlights.size > 0 %}
-          <ul class="cv-highlights">
-            {% for highlight in education.highlights %}
-            <li>{{ highlight }}</li>
-            {% endfor %}
-          </ul>
+          {% if education.summary %}
+          <div class="cv-item-detail">{{ education.summary }}</div>
           {% endif %}
           {% if education.courses.size > 0 %}
           <div class="cv-item-detail">
