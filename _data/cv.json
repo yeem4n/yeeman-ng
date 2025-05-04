@@ -49,7 +49,7 @@
       "startDate": "Aug 2022",
       "endDate": "Aug 2024",
       "gpa": null,
-      "courses": ["Machine Learning for NLP", "Subjectivity Mining", "Computational Modeling of Semantic Change", "Thesis: A Comparative Study of Open-Source and Closed-Source Large Language Models for Native Language Identification"]
+      "courses": ["Machine Learning for NLP", "Subjectivity Mining", "Computational Modeling of Semantic Change", "\nThesis: A Comparative Study of Open-Source and Closed-Source Large Language Models for Native Language Identification"]
     },
     {
       "institution": "Universiteit van Amsterdam",
@@ -68,7 +68,7 @@
       "startDate": "Aug 2018",
       "endDate": "Aug 2021",
       "gpa": null,
-      "courses": ["English Linguistics: Structure of Language", "Introduction to Corpus-Linguistics", "Thesis: The World of Keyboard Virologists: Language Use of Reddit Users in COVID-19 Vaccine News Discussions"]
+      "courses": ["English Linguistics: Structure of Language", "Introduction to Corpus-Linguistics", "\nThesis: The World of Keyboard Virologists: Language Use of Reddit Users in COVID-19 Vaccine News Discussions"]
     }
   ],
   "skills": [],
