@@ -6,13 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am Yee Man, a researcher at Leiden University, within [the Leiden Institute of Advanced Computer Science (LIACS)](https://liacs.leidenuniv.nl). In 2024, I received my Research Masters in Human Language Technology from the [Computational Linguistics and Text Mining Lab (CLTL)](http://www.cltl.nl) at the Vrije Universiteit Amsterdam. 
+Welcome! I am Yee Man, a junior researcher at Leiden University. I work within [the Leiden Institute of Advanced Computer Science (LIACS)](https://liacs.leidenuniv.nl), and specifically the [Translational Data Science Lab (TDS Lab)](https://tdslab.nl). In 2024, I received my Research Masters in Human Language Technology from the [Computational Linguistics and Text Mining Lab (CLTL)](http://www.cltl.nl) at the Vrije Universiteit Amsterdam. I have a BA in English Language and Culture (University of Amsterdam), with a focus on (socio)linguistics and corpus linguistics. 
 
-I currently work together with Bram van Dijk, Marco Spruit, and Max van Duijn, and the team of Healthy Chronos, on the Healthy Chronos app. This app supports cancer patients in recovery by providing insights into how daily activities can influence their mood and symptoms. My main focus is on leveraging large language models in combination with RAG (Retrieval-Augmented Generation) to generate personalized summaries and relevant health advice. 
+I currently work together with Bram van Dijk, Marco Spruit, and the team of Healthy Chronos, on the Healthy Chronos app. This app supports cancer patients in recovery by providing insights into how daily activities can influence their mood and symptoms. My main focus is on leveraging large language models in combination with RAG (Retrieval-Augmented Generation) to generate personalized summaries and relevant lifestyle advice. 
 
-My research interests lie in the fields of Natural Language Processing,  Computational Linguistics, and Digital Humanities. 
+From September 2025, I will start as a PhD candidate in a project titled "MULAMAQ: Multimodal Language Markers for Perceived Quality-of-Life Assessment", supervised by dr. Bram van Dijk, prof. dr. ir. Gerard van Oortmerssen and prof. dr. Marco Spruit! 
 
-In my spare time, I enjoy crocheting, gaming, taking long walks, singing, and hanging out with friends. 
+My research interests lie in the fields of (Medical) Natural Language Processing,  Computational Linguistics, and Digital Humanities. 
+
+In my spare time, I enjoy crocheting, gaming, hiking, and hanging out with friends. 
 
 This personal website is still under construction! 
 

@@ -146,13 +146,14 @@
           <div class="cv-item-date">{{ publication.releaseDate | slice: 0, 4 }}</div>
         </div>
         <div class="cv-item-content">
+          <div class="cv-item-detail">{{ publication.authors }}</div>
           <div class="cv-item-subtitle">{{ publication.publisher }}</div>
           {% if publication.summary %}
           <div class="cv-item-detail">{{ publication.summary }}</div>
           {% endif %}
           {% if publication.website %}
           <div class="cv-item-detail">
-            <a href="{{ publication.website }}" target="_blank">View Publication</a>
+            <a href="{{ publication.website }}" target="_blank">View here</a>
           </div>
           {% endif %}
         </div>
@@ -174,6 +175,7 @@
           <div class="cv-item-date">{{ talk.date | slice: 0, 4 }}</div>
         </div>
         <div class="cv-item-content">
+          <div class="cv-item-detail">{{ talk.authors }}</div>
           <div class="cv-item-subtitle">{{ talk.event }}</div>
           {% if talk.location %}
           <div class="cv-item-detail">{{ talk.location }}</div>
@@ -297,3 +299,25 @@
   </div>
   {% endif %}
 </div>
+
+  <!-- Volunteer work -->
+    <div class="cv-section">
+      <h2>Volunteer Work Experience</h2>
+      <ul class="cv-list">
+        {% for volunteer in cv.volunteer %}
+        <li class="cv-item">
+          <div class="cv-item-header">
+            <div class="cv-item-title">{{ volunteer.position }}</div>
+            <div class="cv-item-date">{{ volunteer.startDate }}{% if volunteer.endDate %} - {{ volunteer.endDate }}{% endif %}</div>
+          </div>
+          <div class="cv-item-content">
+            <div class="cv-item-subtitle">{{ volunteer.organization }}</div>
+            {% if volunteer.summary %}
+            <div class="cv-item-detail">{{ volunteer.summary }}</div>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
